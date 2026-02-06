@@ -5,6 +5,7 @@
 
 📧 Email: abhi.jkit@gmail.com  
 📞 Phone: +91-7905308553  
+📞 Phone: +91-7834974002 
 
 ---
 
@@ -142,6 +143,7 @@ Times Group · Spice Digital · Sporty Solution · Midarex Digital · App Ka Dri
 ## 📫 Connect With Me
 📧 Email: abhi.jkit@gmail.com  
 📞 Phone: +91-7905308553  
+📞 Phone: +91-7834974002 
 🔗 GitHub: https://github.com/abhiyaduvanshis  
 💼 LinkedIn: https://www.linkedin.com/in/abhishek-kumar-singh-42967b95
 
