@@ -39,3 +39,23 @@
 - 📧 Email: abhi.jkit@gmail.com  
 - 🔗 GitHub: https://github.com/abhiyaduvanshis  
 - 💼 LinkedIn: (add your LinkedIn URL)
+
+# Project Name
+
+## 🚀 Tech Stack
+- React.js / Next.js
+- JavaScript (ES6+)
+- Tailwind CSS / Bootstrap
+- Redux / Context API
+
+## ✨ Features
+- Responsive UI
+- API integration
+- Optimized performance
+- Clean component architecture
+
+## 📦 Setup
+```bash
+npm install
+npm run dev
+
