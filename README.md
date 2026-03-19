@@ -1,152 +1,84 @@
-# 👋 Hi, I'm Abhishek Kumar Singh
-
-🚀 **Senior Frontend Developer | React.js & Next.js Specialist**  
-📍 Noida | Open to Remote / Hybrid Opportunities  
-
-📧 Email: abhi.jkit@gmail.com  
-📞 Phone: +91-7905308553  
-📞 Phone: +91-7834974002 
+<h1 align="center">Hi 👋, I'm Abhishek Kumar Singh</h1>
+<h3 align="center">Full Stack Developer | React | Next.js | Node.js | Express.js</h3>
 
 ---
 
-## 🧠 Professional Summary
-Senior Frontend Developer with **10+ years of experience** in building **scalable, high-performance web applications** using **React.js and Next.js**.  
-Strong expertise in **component-driven architecture, performance optimization, REST API integration**, and modern UI frameworks.  
-Experienced in delivering **enterprise-level products** across **Real Estate, Logistics, and Digital Platforms**.
+## 👨‍💻 About Me
+- 💼 Full Stack Developer with **10 years of IT experience**
+- ⚡ 5+ years in **React.js, Next.js, Express.js**
+- 🧠 Previously worked with **PHP (WordPress, CodeIgniter)**
+- 🚀 Building scalable web apps, REST APIs & real-time systems
+- 🤖 Currently exploring **AI Agents & Generative AI (OpenAI API)**
+- 📍 Location: Noida, India
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-### Frontend
-- React.js, Next.js
-- JavaScript (ES6+), TypeScript
+### 🚀 Frontend
+- React.js | Next.js | JavaScript | TypeScript  
+- HTML5 | CSS3 | Tailwind CSS | Bootstrap  
 
-### UI & Styling
-- HTML5, CSS3
-- Tailwind CSS, Bootstrap
+### ⚙️ Backend
+- Node.js | Express.js | REST APIs | JWT Auth  
+- PHP (CodeIgniter, WordPress)  
 
-### State Management
-- Redux, Redux Toolkit, Context API
+### 🗄️ Database
+- MongoDB | MySQL  
 
-### APIs & Backend (Working Knowledge)
-- REST APIs, Axios, JWT Authentication
-- Node.js, Express.js
+### 🔍 Others
+- WebSockets | Elasticsearch  
+- AWS | Vercel | CI/CD | Git  
 
-### Databases
-- MongoDB, MySQL
-
-### Tools & Cloud
-- Git, Bitbucket
-- AWS, Vercel
-- CI/CD Pipelines
-
-### Testing
-- Jest, React Testing Library
+### 🤖 AI / Gen AI
+- OpenAI API | Prompt Engineering | AI Agents (Learning)
 
 ---
 
-## 💼 Professional Experience
+## 📌 Featured Projects
 
-### **Senior Software Engineer**  
-**360 Realtors LLP** | *Jan 2019 – Jan 2026*
+### 🚚 Shipkrate (Logistics Platform)
+- Full Stack app using React, Node.js, Express, MongoDB  
+- Improved performance (Lighthouse: 62 → 92)  
+- Real-time tracking using WebSockets  
 
-- Led frontend development for large-scale real estate platforms including **TimesProperty** and multiple **Microsites**
-- Built reusable React components and optimized page performance
-- Collaborated with product managers and designers to translate business requirements into UI solutions
-- Integrated REST APIs and handled complex user workflows
-- Improved UI consistency and cross-browser compatibility
-- Mentored junior developers and performed code reviews
+🔗 Live: https://shipkrate.com  
 
 ---
 
-### **Software Engineer**  
-**Fourbrick Technology OPC Pvt Ltd** | *Jan 2016 – Jan 2019*
-
-- Developed responsive web applications using JavaScript, HTML, CSS, and Ajax
-- Worked closely with backend teams for API integration
-- Ensured cross-browser compatibility and UI performance
+### 🏠 TimesProperty (Real Estate Platform)
+- High-traffic platform (1M+ users)  
+- Built APIs, optimized search with Elasticsearch  
+- Worked on scalable backend & frontend systems  
 
 ---
 
-## 🚀 Key Projects
-
-### **Shipkrate**
-**Domain:** Logistics & Shipping  
-**Role:** Frontend Developer  
-**Tech:** React.js (Vite), Node.js (Express), MongoDB, AWS  
-
-- Built responsive and scalable UI for shipment tracking & management
-- Integrated REST APIs for order and shipment workflows
-- Implemented real-time updates using WebSocket
-- Optimized component rendering to enhance user experience
+### 🧠 AI Chat Assistant (Learning Project)
+- Built using OpenAI API + Node.js + React  
+- Implemented prompt engineering for smart responses  
+- Integrated AI into web workflows  
 
 ---
 
-### **TimesProperty**
-**Domain:** Real Estate / PropTech  
-**Role:** Frontend Developer  
-**Tech:** JavaScript, Ajax, PHP, MySQL, Elasticsearch, AWS  
+## 📊 GitHub Stats
 
-- Developed UI screens for property listing and campaign modules
-- Collaborated directly with Times Group stakeholders
-- Optimized search functionality using Elasticsearch
-- Maintained high-traffic production application
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishek-sre&show_icons=true&theme=tokyonight" />
+</p>
 
----
-
-### **360 Realtors Platform**
-**Domain:** Real Estate / PropTech  
-**Role:** Frontend Developer  
-**Tech:** Next.js, JavaScript, MySQL, AWS  
-
-- Developed and enhanced frontend modules using Next.js
-- Integrated APIs and collaborated with backend teams
-- Optimized UI flows and overall application performance
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhishek-sre&theme=tokyonight" />
+</p>
 
 ---
 
-### **Gyanimeter**
-**Domain:** Online Utilities & Digital Tools  
-**Role:** Frontend / Fullstack  
-**Tech:** Next.js, MongoDB, Tailwind CSS, Axios  
+## 🌐 Connect with Me
 
-- Built multi-feature platform (calculators, blogs, portfolio builder, speed tools)
-- Designed SEO-friendly pages using Next.js
-- Implemented authentication and role-based access
-- Created modern UI with Tailwind CSS and animations
+- 💼 LinkedIn: https://linkedin.com/in/abhishek-kumar-singh-42967b95s  
+- 🌍 Portfolio: https://profile-portfolio-snowy.vercel.app  
+- 📧 Email: abhi.jkit@gmail.com  
 
 ---
 
-### **Food Ordering Application**
-**Duration:** Jun 2024 – Dec 2024  
-**Role:** Frontend Developer  
-**Tech:** Next.js, Redux, MongoDB, Tailwind CSS, WebSocket, Vercel  
-
-- Developed frontend for food ordering and real-time order tracking
-- Implemented Redux for scalable state management
-- Built responsive UI using Tailwind CSS
-
----
-
-## 🎓 Education
-**B.Tech – Information Technology**  
-UPTU | 2013
-
----
-
-## 🏢 Clients
-Times Group · Spice Digital · Sporty Solution · Midarex Digital · App Ka Driver
-
----
-
-## 📫 Connect With Me
-📧 Email: abhi.jkit@gmail.com  
-📞 Phone: +91-7905308553  
-📞 Phone: +91-7834974002 
-🔗 Website :https://profile-portfolio-snowy.vercel.app
-🔗 GitHub: https://github.com/abhiyaduvanshis
-💼 LinkedIn: https://www.linkedin.com/in/abhishek-kumar-singh-42967b95
-
----
-
+## ⚡ Fun Fact
+I love building scalable apps & exploring AI 🚀
